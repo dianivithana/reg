@@ -1,0 +1,51 @@
+.h2{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+.div{
+    border-style: groove;
+    border-width: 3px;
+    border-color: brown;
+    width: 500px;
+    height: 500px;
+    align-content: center;
+    border-radius: 8px;
+}
+
+.tab1{
+    text-align: left;
+}
+
+.td{
+    text-align: right;
+    color: brown;
+    font-size: 20px;  
+}
+.btns{
+    color:navy;
+    width: 70px;
+    height: 30px;
+    font-weight: bold;
+    
+}
+.btns:hover{
+    color: goldenrod;
+}
+.input{
+    width: 100%;
+    margin: 7px 0;
+    box-sizing: border-box;
+    padding: 7px;
+}
+.dropdown {
+   color: black;
+    padding: 6px 4px;
+    text-decoration: none;
+   
+}
+.dropdown:hover {
+       display: block;
+}
+
+
